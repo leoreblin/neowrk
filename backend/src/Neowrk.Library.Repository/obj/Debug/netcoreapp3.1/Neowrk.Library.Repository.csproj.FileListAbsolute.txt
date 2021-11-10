@@ -1,0 +1,14 @@
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\bin\Debug\netcoreapp3.1\Neowrk.Library.Repository.deps.json
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\bin\Debug\netcoreapp3.1\Neowrk.Library.Repository.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\bin\Debug\netcoreapp3.1\Neowrk.Library.Repository.pdb
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\bin\Debug\netcoreapp3.1\Neowrk.Library.Core.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\bin\Debug\netcoreapp3.1\Neowrk.Library.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\bin\Debug\netcoreapp3.1\Neowrk.Library.Core.pdb
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\bin\Debug\netcoreapp3.1\Neowrk.Library.pdb
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\obj\Debug\netcoreapp3.1\Neowrk.Library.Repository.csproj.AssemblyReference.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\obj\Debug\netcoreapp3.1\Neowrk.Library.Repository.AssemblyInfoInputs.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\obj\Debug\netcoreapp3.1\Neowrk.Library.Repository.AssemblyInfo.cs
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\obj\Debug\netcoreapp3.1\Neowrk.Library.Repository.csproj.CoreCompileInputs.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\obj\Debug\netcoreapp3.1\Neowrk.Library.Repository.csproj.CopyComplete
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\obj\Debug\netcoreapp3.1\Neowrk.Library.Repository.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Repository\obj\Debug\netcoreapp3.1\Neowrk.Library.Repository.pdb

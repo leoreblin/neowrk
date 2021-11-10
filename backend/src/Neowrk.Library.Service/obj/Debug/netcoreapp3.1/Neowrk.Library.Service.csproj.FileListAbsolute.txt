@@ -1,0 +1,16 @@
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.Service.deps.json
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.Service.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.Service.pdb
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.Core.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.Repository.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.Core.pdb
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.Repository.pdb
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\bin\Debug\netcoreapp3.1\Neowrk.Library.pdb
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\obj\Debug\netcoreapp3.1\Neowrk.Library.Service.csproj.AssemblyReference.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\obj\Debug\netcoreapp3.1\Neowrk.Library.Service.AssemblyInfoInputs.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\obj\Debug\netcoreapp3.1\Neowrk.Library.Service.AssemblyInfo.cs
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\obj\Debug\netcoreapp3.1\Neowrk.Library.Service.csproj.CoreCompileInputs.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\obj\Debug\netcoreapp3.1\Neowrk.Library.Service.csproj.CopyComplete
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\obj\Debug\netcoreapp3.1\Neowrk.Library.Service.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library.Service\obj\Debug\netcoreapp3.1\Neowrk.Library.Service.pdb

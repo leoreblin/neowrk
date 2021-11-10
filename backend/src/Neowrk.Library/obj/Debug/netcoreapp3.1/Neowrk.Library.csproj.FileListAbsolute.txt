@@ -1,0 +1,9 @@
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\bin\Debug\netcoreapp3.1\Neowrk.Library.deps.json
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\bin\Debug\netcoreapp3.1\Neowrk.Library.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\bin\Debug\netcoreapp3.1\Neowrk.Library.pdb
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\obj\Debug\netcoreapp3.1\Neowrk.Library.csproj.AssemblyReference.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\obj\Debug\netcoreapp3.1\Neowrk.Library.AssemblyInfoInputs.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\obj\Debug\netcoreapp3.1\Neowrk.Library.AssemblyInfo.cs
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\obj\Debug\netcoreapp3.1\Neowrk.Library.csproj.CoreCompileInputs.cache
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\obj\Debug\netcoreapp3.1\Neowrk.Library.dll
+C:\leo\github\neowrk\desafio-neowrk-leonardo-reblin\backend\src\Neowrk.Library\obj\Debug\netcoreapp3.1\Neowrk.Library.pdb
